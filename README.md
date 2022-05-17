@@ -1,2 +1,2 @@
 # Checkers-for-Console
-Checkers for console Project is an OOP project.
+Checkers for console is an OOP project.
