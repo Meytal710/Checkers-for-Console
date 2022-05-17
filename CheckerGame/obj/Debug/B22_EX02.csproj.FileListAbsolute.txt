@@ -1,0 +1,9 @@
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex2\Ex2_submission\B22 Ex02 Sophie 308399096 Meytal 315042069\B22_EX02\obj\Debug\B22_EX02.csprojAssemblyReference.cache
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex2\Ex2_submission\B22 Ex02 Sophie 308399096 Meytal 315042069\B22_EX02\obj\Debug\B22_EX02.csproj.CoreCompileInputs.cache
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex2\Ex2_submission\B22 Ex02 Sophie 308399096 Meytal 315042069\B22_EX02\bin\Debug\B22_EX02.exe.config
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex2\Ex2_submission\B22 Ex02 Sophie 308399096 Meytal 315042069\B22_EX02\bin\Debug\B22_EX02.exe
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex2\Ex2_submission\B22 Ex02 Sophie 308399096 Meytal 315042069\B22_EX02\bin\Debug\B22_EX02.pdb
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex2\Ex2_submission\B22 Ex02 Sophie 308399096 Meytal 315042069\B22_EX02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex2\Ex2_submission\B22 Ex02 Sophie 308399096 Meytal 315042069\B22_EX02\obj\Debug\B22_EX02.csproj.CopyComplete
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex2\Ex2_submission\B22 Ex02 Sophie 308399096 Meytal 315042069\B22_EX02\obj\Debug\B22_EX02.exe
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex2\Ex2_submission\B22 Ex02 Sophie 308399096 Meytal 315042069\B22_EX02\obj\Debug\B22_EX02.pdb
